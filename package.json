@@ -1,0 +1,35 @@
+{
+  "name": "marta1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.5.1",
+    "@material-ui/icons": "^2.0.3",
+    "antd": "^3.8.4",
+    "antd-init": "^2.0.6",
+    "babel-core": "^6.26.3",
+    "material-auto-rotating-carousel": "^2.0.0",
+    "material-ui-password-field": "^2.0.1",
+    "material-ui-toggle-icon": "^1.0.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-navigation-material-bottom-tabs": "^0.3.0",
+    "react-responsive-carousel": "^3.1.41",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-slick": "^0.23.1",
+    "react-sticky": "^6.0.3",
+    "react-swipeable-views": "^0.12.16",
+    "react-vis": "^1.10.5",
+    "slick-carousel": "^1.8.1",
+    "slide": "^1.1.6",
+    "typeface-roboto": "0.0.54"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

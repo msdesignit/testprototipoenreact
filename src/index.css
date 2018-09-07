@@ -1,0 +1,114 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.header{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.radioBut{
+  display: block;
+  margin-left: 7%;
+
+}
+
+.footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   z-index:1000;
+}
+.labelTab{
+  padding-left:23px;
+  padding-right:23px;
+}
+
+.card{
+	margin:27px;
+
+;}
+
+.closingFooter{
+	padding:30px;
+}
+
+.profScreen{
+	height:590px;
+}
+
+.iconProf{
+	z-index: 0;
+}
+
+.showcase-button{
+  font-size: 25px;
+}
+
+.cardConsumo{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.dot {
+  height: 12px;
+  width: 12px;
+  background-color: #50e3c2;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right:11px;
+}
+
+.dotP {
+  height: 12px;
+  width: 12px;
+  background-color: #256645;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right:11px;
+}
+
+.containerConsumo{
+  display:flex;
+  justify-content:space-between;
+  color:black;
+  margin-top:-10px;
+  font-size: 54px;
+  font-weight: bold;
+}
+
+.estadoFactura{
+  background-color: #eeeeee;
+  color: #9b9b9b;
+  font-weight: lighter;
+  margin-top:-20px;
+  padding-top:13px;
+  padding-bottom: 21px;
+  padding-left: 20px;
+  z-index: 1900px;
+}
+
+.goDetails{
+  padding-bottom: 20px;
+  align-self:center;
+}
+
+.fixedNotification{
+  
+  bottom:20px;
+  
+}
+.carouselCard{
+  padding-left:10px;
+}
+
+.carouselPlans{
+  margin-left:10px;
+}
+
+.snackbar{
+padding-top:40px;
+}
